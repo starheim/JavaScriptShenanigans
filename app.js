@@ -1,3 +1,5 @@
 var helloWorld = "Hello world"
 
-console.log(helloWorld);
+function printShit(text){
+    console.log(text);
+}
