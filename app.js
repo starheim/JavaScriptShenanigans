@@ -1,6 +1,4 @@
 var helloWorld = "Hello world"
-
-
 var testArray1 = ["a", "b", "c", "d"];
 var testArray2 = [10, 11, 12, 13, "b"];
 
@@ -20,9 +18,3 @@ function testSomeArrayStuff(array){
     });
 }
 
-function dunnoYet(){
-    while(true) {
-        console.log(Date.UTC);
-    }
-    JSON.
-}
